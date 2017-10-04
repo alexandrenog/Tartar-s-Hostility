@@ -10,3 +10,6 @@ Install libgosu and dependencies:
 sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev
            libgl1-mesa-dev libopenal-dev libsndfile-dev libmpg123-dev libgmp-dev  
 sudo gem install gosu
+# Install Sqlite and Sqlite gem:
+link: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
+gem install sqlite3-ruby
