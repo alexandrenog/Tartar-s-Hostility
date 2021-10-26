@@ -1,5 +1,8 @@
+
+
 # Tartar-s-Hostility
-A kind of bullet-hell game made in Ruby with LibGosu, and Sqlite database for score info storage.
+A kind of bullet-hell game made in Ruby with LibGosu, and Sqlite database for score info storage. 
+<img src="https://user-images.githubusercontent.com/26557670/138972242-65e78cf2-304d-4683-aed1-91de9edfc44b.png" height="200" style="display: block;margin-left: auto;margin-right: auto;float: right;"/>
 
 # Install on Linux
 Execute: ./install.sh
@@ -11,3 +14,4 @@ Execute: ./install.sh
 
 # Run
   `ruby "Tartar's Hostility.rb"`
+
