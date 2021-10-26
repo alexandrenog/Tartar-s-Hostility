@@ -5,7 +5,7 @@ require_relative 'lib/utils/position'
 require_relative 'lib/utils/time'
 require_relative 'lib/Ammo'
 require_relative 'lib/Tank'
-require_relative 'lib/thing'
+require_relative 'lib/Thing'
 
 class Game < Gosu::Window
 	attr_reader :mapx, :mapy, :mid , :things, :bullets, :pm, :paused
