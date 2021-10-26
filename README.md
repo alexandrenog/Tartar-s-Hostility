@@ -9,5 +9,5 @@ Execute: ./install.sh
 - Sqlite dlls, link: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm 
 - Ruby Gems: libgosu and Sqlite `gem install gosu sqlite3-ruby` 
 
-#Run
+# Run
   `ruby "Tartar's Hostility.rb"`
